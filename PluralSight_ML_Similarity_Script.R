@@ -1,10 +1,10 @@
 # Installing the required packages.
 
-# install.packages('dplyr')
-# install.packages('data.table')
-# install.packages('ggplot2')
-# install.packages('reshape2')
-#install.packages('RSQLite')
+install.packages('dplyr')
+install.packages('data.table')
+install.packages('ggplot2')
+install.packages('reshape2')
+install.packages('RSQLite')
 
 
 # Loading the installed packages.
